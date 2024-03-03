@@ -1,6 +1,6 @@
 # Session-7-Assignment-: This repository stores the content of assignment 7 of Geospatial Programming Course.
 
-In Assignment 7 of Geospatial Programming Course, There are 4 questions which needs to be solved by the participants. 
+In Assignment 7 of Geospatial Programming Course, there are 4 questions which needs to be solved by the participants. 
 
 >**Question 1**: For the 1st question, I have saved a copy of the provided notebook to my colab. Then, I submitted the link of the colab from my drive. I also added the drive link here.
 [Answer 1](https://colab.research.google.com/drive/1SF0jV0fmSkXpIC7lS0lM1l14Fdy5KUJ6?usp=sharing
